@@ -15,7 +15,7 @@ To convert the Infohub timetable to iCalendar format:
     - `timetable_to_ical --module=COMP20010 --input=CM801-5.csv`
 4. You need to tell it the module name, because this is not encoded by Infohub in the CSV file.
 
-If this runs successfully, you will have a file `COMP20010.ics` in the current directory, which you can easily import to iCal:
+If this runs successfully, you will have a file `COMP20010.ics` in the current directory, which you can easily import to iCal and synchronise with all your devices:
 
 ![](ical.png)
 

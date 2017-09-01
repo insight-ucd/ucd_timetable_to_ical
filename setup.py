@@ -15,7 +15,7 @@ setup(
     description="Convert the UCD Infohub Timetable to iCal",
     license="GPL3",
     keywords="icalendar",
-    url="https://git.ucd.ie/aonghuslawlor/ucd_timetable_to_ical/tree/master",
+    url="https://github.com/insight-ucd/ucd_timetable_to_ical",
     entry_points={
         "console_scripts": [  # command-line executables to expose
             "timetable_to_ical = src.ical:main",
